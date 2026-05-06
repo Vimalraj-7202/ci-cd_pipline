@@ -13,7 +13,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>CI/CD Pipiline Setup</h1>
+          <h1>React CI/CD Pipiline Setup</h1>
           
         </div>
 
